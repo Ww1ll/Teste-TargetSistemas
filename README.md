@@ -1,2 +1,2 @@
 # targetSistemas
-Teste Target Sistemas
+Lista de exercícios para o teste da Target Sistemas
